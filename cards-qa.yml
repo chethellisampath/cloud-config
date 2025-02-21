@@ -2,7 +2,7 @@
 build:
   version: "2.0"
 
-accounts:
+cards:
   message: "Hey, welcome to EazyBank accounts related webhook-qa APIs"
   contactDetails:
     name: "Reine SS - QA Owner"
