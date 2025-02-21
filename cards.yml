@@ -1,8 +1,8 @@
 build:
-  version: "2.0"
+  version: "2.1.0"
 
 cards:
-  message: "Hey, welcome to EazyBank accounts related webhook-local  cards APIs"
+  message: "Hey, welcome to EazyBank accounts related webhook-local  test local cards APIs"
   contactDetails:
     name: "LOCAL  Owner"
     email: "local@gmail.com"
