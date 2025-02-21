@@ -4,7 +4,7 @@ build:
 cards:
   message: "Hey, welcome to EazyBank accounts related webhook-local  test local cards APIs"
   contactDetails:
-    name: "LOCAL  Owner"
+    name: "LOCAL test  Owner"
     email: "local@gmail.com"
   onCallSupport:
     - (453) 392-4829
